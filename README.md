@@ -1,5 +1,5 @@
 # Typescript Essential Training
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Typescript Essential Training](https://www.tertiarycourses.com.sg/typescript-essential-training.html) course. 
 
