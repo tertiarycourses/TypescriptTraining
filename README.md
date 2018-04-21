@@ -7,6 +7,8 @@ The course outline can be found in
 
 https://www.tertiarycourses.com.sg/typescript-essential-training.html
 
+https://www.tertiarycourses.com.my/typescript-essential-training.html
+
 <p><strong>Module 1 Get Started</strong></p>
 <ul>
 <li>Introducing TypeScript</li>
