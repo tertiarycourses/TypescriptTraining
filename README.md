@@ -11,83 +11,47 @@ https://www.tertiarycourses.com.my/typescript-essential-training.html
 
 <p><strong>Module 1 Get Started</strong></p>
 <ul>
-<li>Introducing TypeScript</li>
-<li>Defining "JavaScript"</li>
-<li>Writing your first TypeScript function</li>
-<li>Configuring Your Environment</li>
-<li>Choosing your TypeScript editor</li>
-<li>Installing TypeScript</li>
-<li>Creating a TypeScript project</li>
+<li>What is Typescript?</li>
+<li>Install Typescript</li>
+<li>Compile Your Typescript File</li>
 </ul>
-<p><strong>Module 2. ES6 Language Features</strong></p>
+<p><strong>Module 2. Basics Typescript</strong></p>
 <ul>
-<li>Reviewing ES6 language features</li>
-<li>Default parameters</li>
-<li>Template strings</li>
-<li>Let and const</li>
-<li>For...of loops</li>
-<li>Lambdas</li>
+<li>Types</li>
+<li>Variables</li>
+<li>Array</li>
+<li>Control Flow</li>
+<li>Loop</li>
+<li>Function</li>
+</ul>
+<p><strong>Module 3. Typescript ES6 New Features</strong></p>
+<ul>
+<li>New Data Types</li>
+<li>Let &amp; Const</li>
+<li>For Of Loop</li>
+<li>Template Literals</li>
+<li>Spread Operator</li>
+<li>Default Function Parameters</li>
+<li>Rest Parameters</li>
+<li>Object Literal</li>
+<li>Arrow Function</li>
 <li>Destructuring</li>
-<li>The spread operator</li>
-<li>Computed properties</li>
 </ul>
-<p><strong>Module 3. Type Fundamentals</strong></p>
+<p><strong>Module 4. Classes &amp; Interface</strong></p>
 <ul>
-<li>Introducing JavaScript types</li>
-<li>Understanding type inference</li>
-<li>Specifying JavaScript types</li>
-<li>Specifying function parameter types</li>
-<li>Adding function overloads</li>
+<li>Class and Object</li>
+<li>Inheritance</li>
+<li>Interface</li>
 </ul>
-<p><strong>Module 4. Custom Types</strong></p>
+<p><strong>Module 5 Namespace &amp; Modules</strong></p>
 <ul>
-<li>Defining custom types with interfaces</li>
-<li>Using interfaces to describe functions</li>
-<li>Extending interface definitions</li>
-<li>Defining constant values with enums</li>
-<li>Defining anonymous types</li>
+<li>Namespace</li>
+<li>Export Modules</li>
+<li>Import Modules</li>
 </ul>
-<p><strong>Module 5. Classes</strong></p>
+<p><strong>Module 6 Asynchronous Features</strong></p>
 <ul>
-<li>Understanding prototypical inheritance</li>
-<li>Defining a class</li>
-<li>Applying static properties</li>
-<li>Making properties smarter with accessors</li>
-<li>Inheriting behavior from a base class</li>
-<li>Implementing an abstract class</li>
-<li>Controlling visibility with access modifiers</li>
-<li>Implementing interfaces</li>
-</ul>
-<p><strong>Module 6. Generics</strong></p>
-<ul>
-<li>Introducing generics</li>
-<li>Creating generic classes</li>
-<li>Applying generic constraints</li>
-</ul>
-<p><strong>Module 7. Modules</strong></p>
-<ul>
-<li>Understanding the need for modules in JavaScript</li>
-<li>Organizing your code with namespaces</li>
-<li>Using namespaces to encapsulate private members</li>
-<li>Understanding the difference between internal and external modules</li>
-<li>Switching from internal to external modules</li>
-<li>Importing modules using CommonJS syntax</li>
-<li>Importing modules using ECMAScript 2015 syntax</li>
-<li>Loading external modules</li>
-</ul>
-<p><strong>Module 8. Real-World Application Development</strong></p>
-<ul>
-<li>Introducing the sample JavaScript application</li>
-<li>Converting existing JavaScript code to TypeScript</li>
-<li>Generating declaration files</li>
-<li>Referencing third-party libraries</li>
-<li>Converting to external modules</li>
-<li>Debugging TypeScript with source maps</li>
-</ul>
-<p><strong>Module 9. Decorators</strong></p>
-<ul>
-<li>Implementing method decorators</li>
-<li>Implementing class decorators</li>
-<li>Implementing property decorators</li>
-<li>Implementing decorator factories</li>
+<li>Callbacks</li>
+<li>Sync Functions</li>
+<li>ASync Functions</li>
 </ul>
