@@ -1,3 +1,4 @@
+
 // Typescript Essential Training
 // Module 4: Class and Interface
 // Author: Dr. Alfred Ang
@@ -66,20 +67,76 @@
 // p1.info();
 // p1.result()
 
+// Variable Modifier
+class Person {
+
+	static pax:number = 0 
+	public name:string
+	public height:number
+
+	constructor(name,height){
+		this.name = name
+		this.height = height
+		Person.pax = Person.pax + 1
+	}
+
+	info() {
+		console.log(`${this.name} height is ${this.height} cm`);
+	}
+
+	numPax() {
+		console.log(Person.pax)
+	}
+}
+
+let p1 = new Person('Alfred',170)
+let bp2 = new Person('Ally',160)
+p1.numPax()
+
+// Exercise: Modifier
+// class Employee {
+
+// 	static empCount:number = 0
+
+// 	public name:string
+// 	public salary:number
+
+// 	constructor(name:string, salary:number) {
+// 		this.name = name
+// 		this.salary = salary
+// 		Employee.empCount = Employee.empCount + 1
+// 	}
+
+// 	dispEmpInfo() {
+// 		console.log(`${this.name} salary is $${this.salary}`)
+// 	}
+
+// 	dispEmpCount() {
+// 		console.log(Employee.empCount)
+// 	}
+// }
+
+// let e1 = new Employee('Ally',34)
+// let e2 = new Employee('Belinda',45)
+
+// e1.dispEmpInfo()
+// e1.dispEmpCount()
+
+
 // Interface
-interface Rect {
-    length: number,
-    width: number
-}
+// interface Rect {
+//     length: number,
+//     width: number
+// }
 
-function area(r: Rect) {
-    return r.length*r.width
-}
+// function area(r: Rect) {
+//     return r.length*r.width
+// }
 
-let r1 = {length:10,width:30
-}
+// let r1 = {length:10,width:30
+// }
 
-console.log(area(r1))
+// console.log(area(r1))
 
 // Ex: Console
 // interface Person { 

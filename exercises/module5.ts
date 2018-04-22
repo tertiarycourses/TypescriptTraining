@@ -45,8 +45,9 @@
 
 
 // Import & Export
-import { square, } from './lib'
-console.log(square(11))
+import { square, diag } from './lib';
+console.log(square(11)); 
+console.log(diag(4, 3)); 
 
 // import * as lib from './lib';
 // console.log(lib.square(11)); 

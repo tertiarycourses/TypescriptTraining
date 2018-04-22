@@ -17,9 +17,9 @@
 // var c: Color = Color.Green
 // console.log(c)
 
-var a: any = 4
-a = "maybe a string instead"
-a = false
+// var a: any = 4
+// a = "maybe a string instead"
+// a = false
 
 
 // Var vs Let
@@ -84,13 +84,27 @@ a = false
 // console.log(animals);
 
 // Default Function Parameters
-// function f(x:number=10,y:number=20) { 
+// function f(x:number=10,y:number=20):number { 
 //    		return x+y
 // 		} 
 
 // console.log(f(3,4))
 // console.log(f(3))
 // console.log(f())
+
+// Optional Parameters
+// function f(x:number=10,y:number=20,z?:number) :number{ 
+// 	if (z) {
+//    		return x+y+z
+// 		} 
+// 	else {
+// 		return x+y
+// 	}
+// }
+
+// console.log(f(3,4,5))
+// console.log(f(3,4))
+
 
 // Rest Parameters
 // function add(...a) {

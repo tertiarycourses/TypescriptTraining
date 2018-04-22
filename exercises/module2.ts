@@ -72,7 +72,7 @@
 // 	} while(i<10)
 
 // Function
-function f(x:number) {
+function f(x:number):number {
 		return x*x
 	}
 
